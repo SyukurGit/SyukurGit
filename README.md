@@ -1,6 +1,6 @@
-# Hello World I'm Haerul Algifar👋
+# Hello World I'Syukur👋
 
-![Banner](https://drive.google.com/uc?export=view&id=1EWPT4xC9stmatUT4vSzZ1Wg5qsQ4KoM0)
+![Banner](https://drive.google.com/file/d/1leilSJuvLsuZ4EbGcrrv6OlEOOHFkEGq/view?usp=sharing)
 
 Hi, I’m a passionate Informatics Engineering undergraduate at Universitas Hasanuddin. I’m deeply fascinated by the world of full-stack development and cybersecurity, always eager to push boundaries and explore the latest in web technologies. My goal is to become a skilled bug hunter, crafting secure, innovative solutions and uncovering vulnerabilities to make the digital world safer.
 
@@ -15,7 +15,7 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,laravel,swift,react,py,php,java,cpp,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,laravel,,py,php,java,figma" />
   </a>
 </p>
 
@@ -29,6 +29,5 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
 
 ## 💵Support Me 
 
-[![Saweria](https://img.shields.io/badge/SAWERIA-FF5F00?style=for-the-badge&logo=saweria&logoColor=white)](https://saweria.co/hrlgfr)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/haerul920)
+
 
