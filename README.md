@@ -1,11 +1,14 @@
 # Hello World I'm Syukur👋
 
-![Banner](https://drive.google.com/uc?export=view&id=1leilSJuvLsuZ4EbGcrrv6OlEOOHFkEGq
-)
+![Banner](https://drive.google.com/uc?export=view&id=1668qkCZ3wTVlJCcJDSCTDlPijL6UfKgJ)
 
-Hi, I’m a passionate Informatics Engineering undergraduate at Universitas Hasanuddin. I’m deeply fascinated by the world of full-stack development and cybersecurity, always eager to push boundaries and explore the latest in web technologies. My goal is to become a skilled bug hunter, crafting secure, innovative solutions and uncovering vulnerabilities to make the digital world safer.
+Hi, I’m Muhammad Syukur — an enthusiastic Information Technology student at State Islamic University Ar-Raniry. I'm passionate about crafting secure web experiences, exploring the intersection between cybersecurity and modern web development.
 
-I thrive on turning creative ideas into seamless, interactive experiences with clean, efficient code, whether it’s building robust applications or diving into ethical hacking challenges. Let’s connect, explore my projects, and create something extraordinary together! 🚀💻
+My journey started with PHP and blossomed into a deep dive into Laravel, where I build dynamic, responsive applications that are not just functional — but secure and efficient. I'm also sharpening my skills in ethical hacking and security testing, because let’s be real: the web deserves to be fast and safe.
+
+I enjoy building things from scratch, breaking them (ethically of course 😉), and learning something new every step of the way. Whether I’m working on side projects or debugging through late-night coffee-fueled sessions, I’m always pushing my limits.
+
+Let’s build, break, and secure the web together! 🔐⚡💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
@@ -26,7 +29,7 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
   <img src="https://nirzak-streak-stats.vercel.app/?user=haerul920&theme=blue_navy&hide_border=false" width="430" />
 </p>
 
-## 💵Support Me 
+## ME adalah Aku
 
 
 
