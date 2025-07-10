@@ -1,6 +1,6 @@
 # Hello World I'm Syukur👋
 
-![Banner](https://drive.google.com/uc?export=view&id=1668qkCZ3wTVlJCcJDSCTDlPijL6UfKgJ)
+![Banner](https://drive.google.com/uc?export=view&id=1leilSJuvLsuZ4EbGcrrv6OlEOOHFkEGq)
 
 Hi, I’m Muhammad Syukur — an enthusiastic Information Technology student at State Islamic University Ar-Raniry. I'm passionate about crafting secure web experiences, exploring the intersection between cybersecurity and modern web development.
 
@@ -24,10 +24,10 @@ Let’s build, break, and secure the web together! 🔐⚡💻
 
 ## 🌏GitHub Stats:
 
-<p align="center">
+sss<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haerul920&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" width="430" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=haerul920&theme=blue_navy&hide_border=false" width="430" />
-</p>
+</p>ss
 
 ## ME adalah Aku
 
