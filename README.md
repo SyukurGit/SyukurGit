@@ -1,4 +1,4 @@
-# Hello World I'Syukur👋
+# Hello World I'm Syukur👋
 
 ![Banner](https://drive.google.com/uc?export=view&id=1leilSJuvLsuZ4EbGcrrv6OlEOOHFkEGq
 )
