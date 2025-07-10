@@ -1,6 +1,7 @@
 # Hello World I'Syukur👋
 
-![Banner](https://drive.google.com/file/d/1leilSJuvLsuZ4EbGcrrv6OlEOOHFkEGq/view?usp=sharing)
+![Banner](https://drive.google.com/uc?export=view&id=1leilSJuvLsuZ4EbGcrrv6OlEOOHFkEGq
+)
 
 Hi, I’m a passionate Informatics Engineering undergraduate at Universitas Hasanuddin. I’m deeply fascinated by the world of full-stack development and cybersecurity, always eager to push boundaries and explore the latest in web technologies. My goal is to become a skilled bug hunter, crafting secure, innovative solutions and uncovering vulnerabilities to make the digital world safer.
 
