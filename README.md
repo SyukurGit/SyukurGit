@@ -23,13 +23,12 @@ Let’s build, break, and secure the web together! 🔐⚡💻
 
 
 ## 🌏GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="430" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SyukurGit&theme=blue_navy&hide_border=false" width="430" />
+</p>
 
-sss<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haerul920&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" width="430" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haerul920&theme=blue_navy&hide_border=false" width="430" />
-</p>ss
 
-## ME adalah Aku
 
 
 
