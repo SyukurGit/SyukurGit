@@ -17,7 +17,7 @@ Let’s build, break, and secure the web together! 🔐⚡💻
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,bash,ubuntu,js,html,css,laravel,py,php,java,git" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,js,html,css,laravel,py,php,java,git" />
   </a>
 </p>
 
