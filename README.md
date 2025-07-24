@@ -2,7 +2,7 @@
 
 ![Banner](https://drive.google.com/uc?export=view&id=1leilSJuvLsuZ4EbGcrrv6OlEOOHFkEGq)
 
-Hi, I’m Muhammad Syukur — an enthusiastic Information Technology student at State Islamic University Ar-Raniry. I'm passionate about crafting secure web experiences, exploring the intersection between cybersecurity and modern web development.
+Hi, I’m Muhammad Syukur — an enthusiastic Information Technology student. I'm passionate about crafting secure web experiences, exploring the intersection between cybersecurity and modern web development.
 
 My journey started with PHP and blossomed into a deep dive into Laravel, where I build dynamic, responsive applications that are not just functional — but secure and efficient. I'm also sharpening my skills in ethical hacking and security testing, because let’s be real: the web deserves to be fast and safe.
 
