@@ -17,7 +17,7 @@ Let’s build, break, and secure the web together! 🔐⚡💻
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,js,html,css,laravel,py,php,java,git" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,js,html,css,laravel,py,php" />
   </a>
 </p>
 
@@ -27,6 +27,14 @@ Let’s build, break, and secure the web together! 🔐⚡💻
   <img src="https://github-readme-stats.vercel.app/api?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="430" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=SyukurGit&theme=blue_navy&hide_border=false" width="430" />
 </p>
+
+
+<div align="left">
+  <a href="https://github.com/SyukurGit">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyukurGit&theme=github-compact&radius=16" height="auto" alt="by SyukurGit"/>
+  </a>
+</div>
+
 
 
 
