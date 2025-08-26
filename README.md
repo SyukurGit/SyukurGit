@@ -41,19 +41,50 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyukurGit&show_icons=true&theme=blue_navy&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyukurGit&theme=blue_navy&hide_border=true" width="49%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <!-- Main stats -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=SyukurGit&show_icons=true&theme=blue_navy&hide_border=true&count_private=true"
+        alt="GitHub Stats"
+        height="190"
+      />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <!-- Streak -->
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=SyukurGit&theme=blue_navy&hide_border=true"
+        alt="GitHub Streak"
+        height="190"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <!-- Top languages -->
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurGit&layout=compact&theme=blue_navy&hide_border=true"
+        alt="Top Languages"
+        height="190"
+      />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <!-- Productive time (set UTC+7 for WIB) -->
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyukurGit&theme=github_dark&utcOffset=7"
+        alt="Commits by hour (UTC+7)"
+        height="190"
+      />
+    </td>
+  </tr>
+</table>
 
+<!-- Contribution graph full-width bawah biar rapi -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurGit&layout=compact&theme=blue_navy&hide_border=true" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyukurGit&theme=github_dark&utcOffset=7" width="49%" />
-</p>
-
----
-
-## 🗺️ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyukurGit&theme=github-compact&radius=16" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SyukurGit&theme=github-compact&radius=16"
+    alt="Activity Graph"
+    width="100%"
+  />
 </p>
