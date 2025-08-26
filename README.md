@@ -6,9 +6,9 @@
 <h1 align="center">Hello World, I'm Syukur 👋</h1>
 
 <p align="center">
-  Hi, I’m <b>Muhammad Syukur</b> — an enthusiastic Information Technology student. I build secure, fast, and modern web apps.<br/>
-  Started with PHP ➜ fell in love with Laravel ➜ now sharpening ethical hacking & security testing skills.<br/>
-  I love building things from scratch, breaking them ethically 😉, and learning at every step.
+  Hi, I’m <b>Muhammad Syukur</b> — an enthusiastic Information Technology student.<br/>
+  Passionate about <b>cybersecurity</b> 🔐 and <b>modern web development</b> ⚡.<br/>
+  I enjoy building things from scratch, breaking them (ethically 😉), and securing the web.
 </p>
 
 <p align="center">
@@ -23,31 +23,37 @@
 ---
 
 ## 🚀 About Me
-- 🔐 Passionate about **web security** and **Laravel**.
-- 🧪 Enjoys **security testing** & **ethical hacking** to harden apps.
-- ⏱️ Night-owl debugger, coffee-powered ☕.
-- 🤝 Let’s build, break (ethically), and secure the web together! 🔐⚡💻
+- 💻 Started with **PHP**, now diving deep into **Laravel**.
+- 🔐 Learning **ethical hacking** & **security testing**.
+- ☕ Coffee-fueled debugger at night.
+- 🤝 Let’s build, break, and secure the web together!
+
+---
 
 ## 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Tech stack" src="https://skillicons.dev/icons?i=html,css,js,php,laravel,py,linux,kali&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,py,linux,kali&perline=8" alt="skills" />
   </a>
 </p>
 
+---
+
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img alt="Syukur GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SyukurGit&show_icons=true&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="49%"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurGit&layout=compact&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SyukurGit&show_icons=true&theme=blue_navy&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyukurGit&theme=blue_navy&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=SyukurGit&theme=blue_navy&hide_border=false" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurGit&layout=compact&theme=blue_navy&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyukurGit&theme=github_dark&utcOffset=7" width="49%" />
 </p>
+
+---
 
 ## 🗺️ Activity Graph
 <p align="center">
-  <a href="https://github.com/SyukurGit">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SyukurGit&theme=github-compact&radius=16" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyukurGit&theme=github-compact&radius=16" width="100%" />
 </p>
