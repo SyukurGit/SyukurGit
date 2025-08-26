@@ -63,7 +63,10 @@ Let’s build, break, and secure the web together! 🔐⚡💻
 
 
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="430" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="430" />
+</p>
 
 
 
