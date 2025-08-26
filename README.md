@@ -46,25 +46,28 @@
     <td width="50%" valign="top" align="center">
       <!-- Main stats -->
       <img
-        src="https://github-readme-stats.vercel.app/api?username=SyukurGit&show_icons=true&theme=blue_navy&hide_border=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=SyukurGit&show_icons=true&theme=blue_navy&hide_border=true&count_private=true&v=1"
         alt="GitHub Stats"
         height="190"
       />
     </td>
     <td width="50%" valign="top" align="center">
-      <!-- Streak -->
+      <!-- Streak (FIXED: ganti dari herokuapp ke domain stabil) -->
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=SyukurGit&theme=blue_navy&hide_border=true"
+        src="https://streak-stats.demolab.com?user=SyukurGit&theme=github-dark-blue&hide_border=true&v=1"
         alt="GitHub Streak"
         height="190"
       />
+      <!-- Alternatif jika ingin sama seperti sebelumnya:
+      <img src="https://nirzak-streak-stats.vercel.app/?user=SyukurGit&theme=blue_navy&hide_border=true&v=1" alt="GitHub Streak" height="190" />
+      -->
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <!-- Top languages -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurGit&layout=compact&theme=blue_navy&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurGit&layout=compact&theme=blue_navy&hide_border=true&v=1"
         alt="Top Languages"
         height="190"
       />
@@ -72,7 +75,7 @@
     <td width="50%" valign="top" align="center">
       <!-- Productive time (set UTC+7 for WIB) -->
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyukurGit&theme=github_dark&utcOffset=7"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyukurGit&theme=github_dark&utcOffset=7&v=1"
         alt="Commits by hour (UTC+7)"
         height="190"
       />
@@ -83,7 +86,7 @@
 <!-- Contribution graph full-width bawah biar rapi -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SyukurGit&theme=github-compact&radius=16"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SyukurGit&theme=github-compact&radius=16&v=1"
     alt="Activity Graph"
     width="100%"
   />
