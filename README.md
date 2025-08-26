@@ -31,6 +31,17 @@ Let’s build, break, and secure the web together! 🔐⚡💻
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="430" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="430" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SyukurGit&theme=dracula&column=7"/>
+</p>
+
+
 <div align="left">
   <a href="https://github.com/SyukurGit">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyukurGit&theme=github-compact&radius=16" height="auto" alt="by SyukurGit"/>
