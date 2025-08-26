@@ -8,7 +8,7 @@
 <p align="center">
   Hi, I’m <b>Muhammad Syukur</b> — an enthusiastic Information Technology student.<br/>
   Passionate about <b>cybersecurity</b> 🔐 and <b>modern web development</b> ⚡.<br/>
-  I enjoy building things from scratch, breaking them (ethically 😉), and securing the web.
+  I enjoy building things from scratch, breaking them (ethically), and securing the web.
 </p>
 
 <p align="center">
