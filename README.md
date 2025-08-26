@@ -1,6 +1,7 @@
-# Hello World I'm Syukur's👋
-
-![Banner](https://drive.google.com/uc?export=view&id=1leilSJuvLsuZ4EbGcrrv6OlEOOHFkEGq)
+Hello World I'm Syukur's👋
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SyukurGit&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
 Hi, I’m Muhammad Syukur — an enthusiastic Information Technology student. I'm passionate about crafting secure web experiences, exploring the intersection between cybersecurity and modern web development.
 
@@ -10,46 +11,36 @@ I enjoy building things from scratch, breaking them (ethically of course 😉), 
 
 Let’s build, break, and secure the web together! 🔐⚡💻
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-
-
-
-## 🌐Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,js,html,css,laravel,py,php" />
-  </a>
+<p align="left">
+<a href="https://instagram.com" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
-
-## 🌏GitHub Stats:
+🌐 Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="430" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SyukurGit&theme=blue_navy&hide_border=false" width="430" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=kali,linux,js,html,css,laravel,py,php" />
+</a>
 </p>
 
-
+🌏 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="430" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="430" />
+<img src="https://github-readme-stats.vercel.app/api?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="430" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurGit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="430" />
 </p>
-
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyukurGit&theme=dracula&column=7"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=SyukurGit&theme=blue_navy&hide_border=false" width="430" />
 </p>
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SyukurGit&theme=dracula&column=7"/>
+</p>
 
 <div align="left">
-  <a href="https://github.com/SyukurGit">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyukurGit&theme=github-compact&radius=16" height="auto" alt="by SyukurGit"/>
-  </a>
+<a href="https://github.com/SyukurGit">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyukurGit&theme=github-compact&radius=16" height="auto" alt="by SyukurGit"/>
+</a>
 </div>
-
-
-
-
-
-
