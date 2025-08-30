@@ -22,13 +22,7 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Started with **PHP**, now diving deep into **Laravel**.
-- 🔐 Learning **ethical hacking** & **security testing**.
-- ☕ Coffee-fueled debugger at night.
-- 🤝 Let’s build, break, and secure the web together!
 
----
 
 ## 🛠️ Skills
 <p align="center">
