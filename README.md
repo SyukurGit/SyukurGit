@@ -27,7 +27,7 @@
 ## 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,go,js,ts,html,css,php,laravel,py,linux,ubuntu,kali&perline=11" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,go,js,ts,html,css,php,laravel,py,linux,ubuntu,kali&perline=14" alt="skills" />
   </a>
 </p>
 
